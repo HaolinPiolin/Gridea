@@ -1,0 +1,235 @@
+body {
+  font-family: Montserrat, sans-serif;
+
+}
+
+#title {
+  background-color: #00C4B3;
+  color: white;
+}
+.navbar {
+  padding: 1% 2% 1% 2%;
+}
+
+.title-img {
+  width: 10%;
+}
+
+.title-contact-button {
+  background-color: #72318A;
+  border: none;
+}
+
+.headimage {
+  width: 70%;
+}
+
+.navbar .navbar-nav .nav-link {
+   color: white;
+   transition: 0.3s;
+   font-family: Ubuntu-bold, sans-serif;
+   font-size: 700;
+}
+
+.header-left {
+  padding: 10%;
+}
+.header-h1 {
+  font-family: ubuntu-bold, sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  padding-top: 1%;
+  padding-bottom: 5%;
+  /* padding: 5%; */
+}
+
+.header-p {
+  /* padding: 5%; */
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+
+.title-contact-button2 {
+  border: none;
+  background-color: #72318A;
+}
+
+.features-row {
+  padding: 5% 8% 5% 8%;
+  text-align: center;
+}
+
+.features-img{
+  width: 30%;
+}
+
+.features-p {
+  padding: 5% 5%;
+  line-height: 2;
+  font-family: Montserrat-black,sans-serif;
+  font-weight: 700;
+}
+
+#features2 {
+  /* background-color: #72318A; */
+  padding: 5%;
+  /* color: white; */
+  font-family: Montserrat-black,sans-serif;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.contact-h3 {
+  font-family: ubuntu-bold, sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  padding-bottom: 3%;
+}
+.features2-left {
+  text-align: center;
+}
+
+.features2-movil {
+  width: 50%;
+  position: relative;
+  left: 15%;
+}
+
+.features2-img {
+  width: 100px;
+  float: left;
+  /* padding: 3% 2%; */
+  margin-right: 5%;
+}
+
+.features2-ul {
+  list-style: none;
+  width: 75%;
+}
+
+.features2-li {
+  display: inline-block;
+  margin-top: 5%;
+}
+
+.features2-p {
+  padding: 4% 5%;
+}
+
+#services {
+  padding: 5%;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.services-h2 {
+  font-family: ubuntu-bold, sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  padding-bottom: 1%;
+}
+.services-col1 {
+  padding-left: 30%;
+  padding-right: 2%;
+}
+
+.services-col2 {
+  padding-left: 2%;
+  padding-right: 30%;
+}
+
+.services-p {
+  padding-bottom: 1%;
+}
+
+.card-h3 {
+
+}
+
+.card-header {
+  background-color: #00C4B3;
+  color: white;
+}
+
+.card {
+  border-color: #00C4B3;
+  color: #00C4B3;
+}
+
+.services-btn {
+  border-color: #00C4B3;
+  color: #00C4B3;
+}
+
+.services-btn:hover {
+  border: none;
+  color: white;
+  background-color: #00C4B3;
+}
+#contact {
+  padding: 5%;
+  padding-bottom: 2%;
+  color: white;
+  background-color: #72318A;
+}
+
+.contact-hr {
+  border-color: white;
+}
+
+.form-control {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.contact-btn {
+  color: white;
+  background-color: #00C4B3;
+}
+
+.contact-btn:hover {
+  color: #00C4B3;
+  border-color: #00C4B3;
+  background-color: #72318A;
+}
+
+footer {
+  padding: 5%;
+  padding-bottom: 2%;
+  color: white;
+  background-color: #72318A;
+  text-align: center;
+}
+
+.footer-icon {
+  font-size: 1.5rem;
+  padding-left: 2%;
+  padding-right: 2%;
+  transition: 0.3s;
+}
+
+.footer-icon:hover {
+  color: grey;
+}
+
+.footer-right {
+  text-align: right;
+}
+
+.footer-left {
+  text-align: left;
+}
+ ul {
+   list-style: none;
+ }
+
+.footer-link {
+  transition: 0.3s;
+  float: left;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+ .footer-link:hover {
+   color: grey;
+ }
