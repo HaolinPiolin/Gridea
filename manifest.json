@@ -13,7 +13,7 @@
         },
         {
           "src": "./144x144.png" ,
-          "sizes": "144x144" ,
+          "sizes": "114x114" ,
           "type": "image/png"
         }
   ]
