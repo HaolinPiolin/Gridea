@@ -1,0 +1,17 @@
+{
+    "name": "La mejor PWA" ,
+    "short_name": "La mejor PWA" ,
+    "descripton": "Sitio de reunión para que todos los profesores me pongáis dieces." ,
+    "start_url": "." ,
+    "background-color": "#FFFFFF" ,
+    "theme_color": "#FFFFFF" ,
+    "display": "standalone" ,
+    "icons": [
+        {
+          "src": "./img/android-chrome-512x512.png" ,
+          "sizes": "512x512" ,
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+    ]
+  }
