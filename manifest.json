@@ -1,7 +1,7 @@
 {
     "name": "La mejor PWA" ,
     "short_name": "La mejor PWA" ,
-    "descripton": "Sitio de reunión para que todos los profesores me pongáis dieces." ,
+    "description": "Sitio de reunión para que todos los profesores me pongáis dieces." ,
     "start_url": "." ,
     "background_color": "#FFFFFF" ,
     "theme_color": "#FFFFFF" ,
