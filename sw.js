@@ -4,10 +4,10 @@ self.addEventListener("install", e => {
         return cache.addAll([
           "./",
           "css.css",
-          "./img/114x114.png",
-          "./img/144x144.png",
+          "./img/android-chrome-512x512.png",
+          "./img/android-chrome-192x192.png",
           "./img/grafico-de-barras.png",
-          "./img/favicon.png",
+          "./img/apple-touch-icon",
           "./img/lista-de-verificacion.png",
           "./img/supervision.png",
           "./img/tienda.png",
